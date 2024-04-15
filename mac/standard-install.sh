@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-echo 'Install Git, Python3, Node.js, GCC, LLVM'
+echo 'Install Git, Python3, Node.js, GCC, LLVM, JetBrainsToolbox VisualStudioCode'
 
 echo 'ok? (y/n)'
 if read -q; then
