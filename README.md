@@ -3,7 +3,7 @@
 ## 構成
 - Mac
   - Standard
-    - Git, Python3, Node.js, GCC, LLVM, JetBrainsToolbox VisualStudioCode
+    - Git, Python3, Node.js, GCC, LLVM, JetBrainsToolbox, VisualStudioCode
   - C/C++
     - CMake, Boost, Qt, CLion
   - Java
